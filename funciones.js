@@ -94,7 +94,7 @@ promedio = (id) => {
         console.log('el estudiante con ese id no existe');
     }else{
         let prom = (estudiante.matematicas + estudiante.ingles + estudiante.programacion)/3;
-        console.log('el estudiante es: ' + prom);
+        console.log('el estudiante promedio del estudiante es: ' + prom);
     }
 }
 
