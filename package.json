@@ -1,0 +1,23 @@
+{
+  "name": "archivos",
+  "version": "1.0.0",
+  "description": "Bonus 2",
+  "main": "index.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juankmanca/Archivos_Node.git"
+  },
+  "author": "Juan Camilo Ocampo Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juankmanca/Archivos_Node/issues"
+  },
+  "homepage": "https://github.com/juankmanca/Archivos_Node#readme"
+}
